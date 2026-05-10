@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model weights and large files
+*.pth
+*.pt
+*.h5
+*.pkl
+*.onnx
+
+# Data folders (never push raw datasets)
+data/
+datasets/
+*.csv
+*.zip
+
+# Outputs
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
