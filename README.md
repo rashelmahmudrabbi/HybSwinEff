@@ -26,6 +26,7 @@ from peripheral blood smear images.
 - **Inference Speed**: ~3.40 ms/image (GPU)
 
 ## Project Structure
+```
 HybSwinEff/
 │
 ├── Model/
@@ -44,4 +45,5 @@ HybSwinEff/
 │
 ├── .gitignore
 ├── LICENSE
-└── README.md"# HybSwinEff" 
+└── README.md
+```
